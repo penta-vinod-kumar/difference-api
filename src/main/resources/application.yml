@@ -1,0 +1,6 @@
+server:
+    port: 9082
+spring:
+    data:
+        mongodb:
+            uri: mongodb://difference:difference2020@ds111078.mlab.com:11078/differencedb?retryWrites=false
